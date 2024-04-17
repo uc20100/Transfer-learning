@@ -6,3 +6,6 @@
 2) Скачать нейросеть BERT для лингвистических задач и реализовать процедуру классификации текстов 
 (без оглядки на качество классификации)
 
+---
+## Посмотреть notebook с интерактивными графиками в [nbviewer](https://nbviewer.org/github/uc20100/Transfer-learning/blob/37459c4b10baa552271b9b45ac2a2bea02aa9926/seminar_1/seminar_1.ipynb)
+
